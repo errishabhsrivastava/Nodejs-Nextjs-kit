@@ -60,6 +60,6 @@ my-node-next-project/
 ```
 ## Usage
   #Run development server:
-    ```
+```
       npm run dev
 ```
